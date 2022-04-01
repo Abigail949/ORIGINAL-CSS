@@ -1,0 +1,179 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: #FFF8F3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    line-height: 1;
+}
+
+h1{
+    color: #EAF6F6;
+}
+
+h2{
+    color: #106da3;
+}
+
+h3 {
+    margin: 10px auto 0 auto;
+    color: #0f0606;
+}
+
+
+hr{
+border: dotted #333C83 5px;
+border-bottom: none;
+width: 4px;
+margin: 100px auto;
+
+}
+
+a{
+    color: #0093AB;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10p 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#C74B50;
+}
+
+.MY-image{
+    border-radius: 100%; 
+    float: left;
+    position: absolute;
+    left:350px;
+}
+
+.Fixed{
+    background-color:FD5D5D;
+    height: 50px;
+    width: 1600px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-top: 8px;
+    
+    }
+
+    
+.originql-container{
+    background-color:#333C83;
+    height:200px;
+    padding: 50px;
+    margin-top: 0;
+
+    }
+    
+    
+  
+    
+    
+    .new-container{
+    height: 500px;
+    background-color:rgb(197, 214, 214) ;
+    padding: 10px;
+    text-align: left;
+    }
+    
+    .last-contianer{
+    height: 70px;
+    background-color: #712B75;
+    padding: 50px 0 20px ;
+    
+    }
+    
+    
+    .skill-roll{
+    width: 50%;
+    margin: 0px auto 100px auto;
+     
+    }
+
+    .desktop-image:hover{
+background: #C74B50;        
+    }
+    
+    .desktop-image{
+        border-radius: 100%;
+        width: 25%;
+    
+       
+    }
+
+    .Baking{
+        border-radius: 100%;
+        width: 25%;
+        
+
+    }
+    .Baking:hover{
+        background: #C74B50;        
+            }
+
+.music{
+    border-radius: 100%;
+    width: 20%;
+    
+
+}
+
+.music:hover{
+    background: #050101;        
+        }
+
+.Contact-message{
+width: 40%;
+margin: 40px auto 60px;
+
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfccc;
+    background-image: -webkit-linear-gradient(top, #3cfccc, #344fd9);
+    background-image: -moz-linear-gradient(top, #3cfccc, #344fd9);
+    background-image: -ms-linear-gradient(top, #3cfccc, #344fd9);
+    background-image: -o-linear-gradient(top, #3cfccc, #344fd9);
+    background-image: linear-gradient(to bottom, #3cfccc, #344fd9);
+    text-decoration: none;
+  }
+
+
+
+
+  .copy-right{
+      color: #EAF6F6;
+      padding: 20px 0;
+
+  }
+  
+
+
+  .CONTACT-ME{
+
+    position: relative;
+    margin: 0 auto0 auto;
+  }
+  
