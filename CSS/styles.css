@@ -45,9 +45,7 @@ a:hover{
 
 .MY-image{
     border-radius: 100%; 
-    float: left;
-    position: absolute;
-    left:350px;
+    
 }
 
 .Fixed{
@@ -64,7 +62,7 @@ a:hover{
     
 .originql-container{
     background-color:#333C83;
-    height:200px;
+    height:350px;
     padding: 50px;
     margin-top: 0;
 
@@ -72,7 +70,6 @@ a:hover{
     
     
   
-    
     
     .new-container{
     height: 500px;
